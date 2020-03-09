@@ -1,0 +1,252 @@
+body	{
+	background-color:#66b3ff;
+	height:7000px;
+}
+
+#logodiv	{
+	top:-10px;
+	width:145px;
+	height:205px;
+	position: absolute;
+	left:100px;
+	background-color:white;
+	z-index:5;
+	font-family: "Roboto Condensed", sans-serif;
+	border-radius:10px;
+}
+
+#logo	{
+	height:120px;
+	position: relative;
+	top:18px;
+	left:13px;
+}
+
+#logo3	{
+	height:60px;
+	position: relative;
+	top:18px;
+	left:5px;
+	
+}
+
+.navbar	{
+	width:100%;
+	background-color:#712647;
+	height:90px;
+	padding:0px;
+	margin:0px;
+	box-shadow:0px 7px #712647;
+	border-bottom:3px solid white;
+	z-index:4;
+}
+
+.carousel	{
+	width:100%;
+	position:relative;
+}
+
+.forquota1	{
+	height:400px;
+	width:100%;
+	background-image: url("../images/bayraq.png");
+}
+
+.forquota12	{
+	height:400px;
+	width:100%;
+	background-color:white;
+	position:relative;
+	top:-400px;
+	opacity:55%;
+}
+
+.quota1	{
+	height:400px;
+	width:100%;
+	background-color:transparent;
+	position:relative;
+	top:-800px;
+}
+
+.mka	{
+	height:370px;
+	position:relative;
+	top:25px;
+	left:60px;
+}
+
+.mkaimza	{
+	height:100px;
+	position:absolute;
+	left:1000px;
+	top:275px;
+}
+
+.mkat	{
+	height:180px;
+	position:relative;
+	left:100px;
+}
+
+.videos	{
+	height:1227px;
+	width:100%;
+	background-color:transparent;
+	position:relative;
+	top:-2027px;
+}
+
+.forvideofon	{
+	height:1227px;
+	width:100%;
+	background-color:#e6e1e1;
+	position:relative;
+	top:-800px;
+	opacity:85%;
+}
+
+.video1	{
+	width:550px;
+	height:309px;
+	transition:width 0.5s ease,height 0.5s ease,top 0.5s ease,left 0.5s ease;
+	position:relative;
+	top:100px;
+	left:100px;
+}
+
+.video1:hover	{
+	width:650px;
+	height:365px;
+	top:72px;
+	left:50px;
+}
+
+
+.vidtext11	{
+	width:553px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:815px;
+	top:-130px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+.vidtext12	{
+	width:478px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:860px;
+	top:-145px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+.vidtext13	{
+	width:114px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:1000px;
+	top:-160px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+.video2	{
+	width:550px;
+	height:309px;
+	transition:width 0.5s ease,height 0.5s ease,top 0.5s ease,left 0.5s ease;
+	position:relative;
+	top:-50px;
+	left:870px;
+}
+
+.video2:hover	{
+	width:650px;
+	height:365px;
+	top:-78px;
+	left:820px;
+}
+
+.vidtext21	{
+	width:543px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:151px;
+	top:-280px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+.vidtext22	{
+	width:473px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:180px;
+	top:-295px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+.vidtext23	{
+	width:308px;
+	height:px;
+	background-color:;
+	position:relative;
+	left:240px;
+	top:-310px;
+	font-size:33px;
+	text-align:center;
+	color:#712647;
+	border-bottom:0px solid #712647;
+}
+
+
+.video3	{
+	width:550px;
+	height:309px;
+	transition:width 0.5s ease,height 0.5s ease,top 0.5s ease,left 0.5s ease;
+	position:relative;
+	top:509px;
+	left:100px;
+}
+
+.video3:hover	{
+	width:650px;
+	height:365px;
+	top:481px;
+	left:50px;
+}
+
+
+
+
+
+
+.ParallaxVideo	{
+	height:854px;
+}
+
+
+
+
+
+
+
+
